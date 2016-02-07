@@ -1,0 +1,3 @@
+[submodule "mini-os"]
+	path = mini-os
+	url = git://xenbits.xen.org/mini-os.git
